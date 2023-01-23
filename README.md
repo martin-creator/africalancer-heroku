@@ -1,4 +1,4 @@
-# Africalancer-connecting african talent with opportunities --> HEROKU
+# Africalancer-connecting african talent with opportunities
 ![header](/images/header.png)
 > The pandemic exposed that Africa's lack of digital work infrastructure has the potential to disrupt the way work was actually working.  We need to creates digital spaces to network and create projects outside the conventional four cournes of the offices/classroom.   The lack of digital work infrastructure has led to scenarios where talent is  equally distributed however, opportunity  is not. At Africalancer, we hope to change this narrative by creating  leveled plaform for talent to connect with opportunity. 
 
