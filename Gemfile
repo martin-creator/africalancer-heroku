@@ -79,6 +79,8 @@ gem 'activemerchant', '~> 1.117'
 
 # gem 'momentjs-rails', '~>2.17.1'
 
+gem 'os', '~> 1.1', '>= 1.1.4'
+
 
 
 group :development, :test do
